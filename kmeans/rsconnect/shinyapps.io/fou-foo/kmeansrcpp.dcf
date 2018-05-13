@@ -1,0 +1,12 @@
+name: kmeansrcpp
+title: KmeansRCPP
+username:
+account: fou-foo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 245553
+bundleId: 1120269
+url: https://fou-foo.shinyapps.io/kmeansrcpp/
+when: 1512624182.91944
+asMultiple: FALSE
+asStatic: FALSE

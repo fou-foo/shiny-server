@@ -1,0 +1,12 @@
+name: mp_kmeans_cpp
+title: MP_kmeans_cpp
+username:
+account: foufoo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 245565
+bundleId: 1120325
+url: https://foufoo.shinyapps.io/mp_kmeans_cpp/
+when: 1512626710.54875
+asMultiple: FALSE
+asStatic: FALSE
